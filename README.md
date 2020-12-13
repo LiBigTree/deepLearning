@@ -1,11 +1,16 @@
-# 时间线
+# 记录
 
-> 2020/02/11 图像模块学习：opencv的使用
-> 
->2019年7月20号
-> deepLearning: records about dl study
+2020年12月13日：
+从线性回归理解什么是神经网络开始coding——目前的思路是：
 
-# 目录
+图像、语言、语音、组合复杂网络
 
 
-# 参考
+2020/02/11：学习opencv的使用
+ 
+2019年7月20号：deepLearning: records about dl study
+
+
+
+> 主干理论参考：复旦大学 邱老师
+> 主干代码：官方手册、CSDN、床长
